@@ -18,12 +18,14 @@
     </nav>
 
     <main>
+        <h1>мой не сам</h1>
+        <footer>
+            2025
+        <footer>
     </main>
 
     <script src="js/script.js"></script>
     
-    <footer>
-        2025
-    <footer>
+
 </body>
 </html>
