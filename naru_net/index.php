@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Нарушениям нет</title>
-    <link rel='icon' href='image/speed.png'>
+    <link rel='icon' href='images/speed.png'>
     <link rel='stylesheet' href='css/style.css'>
 </head>
 <body>
-    <header> <img src='image/speed.png' alt='логотип'>
+    <header> <img src='images/speed.png' alt='логотип'>
         <h1>Нарушениям нет</h1>
     </header>
 
