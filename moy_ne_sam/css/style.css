@@ -19,6 +19,7 @@ nav {
     align-items: center;
     justify-content: center; 
 }
+
 main {
     display: flex;
     align-items: center;
@@ -31,4 +32,8 @@ footer {
     align-items: center; 
     position: fixed;
     bottom: 0;
+}
+
+.Error {
+    color: red;
 }
