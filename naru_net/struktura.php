@@ -37,14 +37,14 @@ if (isset($_SESSION['user'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Мой не сам  <?php echo $pageTitle; ?></title>
+    <title>нарушениям нет  <?php echo $pageTitle; ?></title>
     <link rel='icon' href='images/logo.jpeg'>
     <link rel='stylesheet' href='css/style.css'>
 </head>
 <body>
     <header>
         <img src='images/logo.jpeg' alt='логотип'>
-        <h1>мой не сам</h1>
+        <h1>нарушениям нет</h1>
     </header>
 <!--
     <nav>
