@@ -7,7 +7,7 @@ chmod +x xampp-linux-x64-8.2.12-0-installer.run - команда нужна дл
 https://bom.firpo.ru/Public/2645 - сайт
 
 Мой не сам:
-https://docs.google.com/document/d/1A3mNRMWqr3RnPutG2OowQwn6KV8DluBHuiwLpHKJ3jY/edit?usp=drive_link
+https://docs.google.com/document/d/1kNU2WQ8U6p6c62-0vrlYxU90zxWXS7Sv3tYiUaxBD3M/edit?tab=t.0
 
 <h1>Мой не сам</h1>
   <a href="https://github.com/Vipperswag/demoexzamen/tree/main/mou_ne_sam">
