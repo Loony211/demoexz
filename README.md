@@ -10,7 +10,7 @@ https://bom.firpo.ru/Public/2645 - сайт
 https://docs.google.com/document/d/1kNU2WQ8U6p6c62-0vrlYxU90zxWXS7Sv3tYiUaxBD3M/edit?tab=t.0
 
 <h1>Мой не сам</h1>
-  <a href="https://github.com/Vipperswag/demoexzamen/tree/main/mou_ne_sam">
+  <a href="https://github.com/Loony211/demoexz/tree/main/moy_ne_sam">
     <img src="https://img.shields.io/badge/Github-purple?style=for-the-badge&logo=pen&logoColor=white" alt="Badge"/>
   </a>
   
@@ -28,7 +28,7 @@ https://docs.google.com/document/d/1kNU2WQ8U6p6c62-0vrlYxU90zxWXS7Sv3tYiUaxBD3M/
   - Есть стили
 ---
 <h1>Нарушениям Нет</h1>
-  <a href="https://github.com/Vipperswag/demoexzamen/tree/main/narysheniam_net">
+  <a href="https://github.com/Loony211/demoexz/tree/main/naru_net">
     <img src="https://img.shields.io/badge/Github-purple?style=for-the-badge&logo=pen&logoColor=white" alt="Badge"/>
   </a>
   
@@ -46,4 +46,4 @@ https://docs.google.com/document/d/1kNU2WQ8U6p6c62-0vrlYxU90zxWXS7Sv3tYiUaxBD3M/
 https://docs.google.com/document/d/1Xyx0cBTOfuuBueO8V9hZ47xBYQoToC4ABMEMLDKtBFs/edit?usp=sharing
 
   Таблицы:
-https://docs.google.com/spreadsheets/d/1o10LKeX68IgVTm0K72RGxjB-FE55xeOUJEXyVMkDQQs/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1XhGK_ZSxrOzgm65LzFQePrZiZ36FevzJBUSskt9eeDU/edit?gid=1796647123#gid=1796647123
