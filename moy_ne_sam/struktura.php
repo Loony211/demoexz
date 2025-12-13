@@ -44,8 +44,22 @@ if (isset($_SESSION['user'])) {
 <body>
     <header>
         <img src='images/logo.jpeg' alt='логотип'>
+<<<<<<< HEAD
         <h1>Мой не сам</h1>
     </header>
+=======
+        <h1>мой не сам</h1>
+    </header>
+<!--
+    <nav>
+        <a href="index.php">Авторизация</a>
+        <a href="registration.php">Регистрация</a>
+        <a href="create_zayavka.php">Создать заявку</a>
+        <a href="zayavka.php">Список заявок</a>
+        <a href="admin.php">Панель администратора</a>
+    </nav>
+-->
+>>>>>>> 6b7f57f35a2cad7bff364e68e715a2b13b175b73
 
     <nav>
         <?php foreach ($navLinks as $link): ?>
@@ -56,18 +70,26 @@ if (isset($_SESSION['user'])) {
     <main>
         <h1><?php echo $pageTitle;?></h1>
         <div class="content">
+<<<<<<< HEAD
             <?php 
             if (isset($pageContent) && !empty($pageContent)) {
                 echo $pageContent;
             } else {
             }
             ?>
+=======
+            <?php echo $pageContent ?? '';?>
+>>>>>>> 6b7f57f35a2cad7bff364e68e715a2b13b175b73
         </div>
         <footer>
             <h3>2025</h3>
         </footer>
     </main>
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6b7f57f35a2cad7bff364e68e715a2b13b175b73
     <script src="js/script.js"></script>
 </body>
 </html>

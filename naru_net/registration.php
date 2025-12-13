@@ -1,4 +1,5 @@
 <?php
+<<<<<<< HEAD
 require_once "db/db.php";
 $pageTitle = 'Регистрация';
 
@@ -112,3 +113,21 @@ ob_start();
 $pageContent = ob_get_clean();
 require_once "struktura.php";
 ?>
+=======
+$pageTitle = 'Регистрация';
+require_once "struktura.php";
+
+?>
+    <main>    
+        <form>
+        <label>Логин
+            <input type="text" name="login"> 
+        </label> 
+        <label>Пароль
+            <input type="text" name="password"> 
+        </label> 
+        <button>Вход</button>
+        </form> 
+        
+    </main>
+>>>>>>> 6b7f57f35a2cad7bff364e68e715a2b13b175b73

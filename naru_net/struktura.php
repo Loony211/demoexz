@@ -37,15 +37,35 @@ if (isset($_SESSION['user'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<<<<<<< HEAD
     <title>Нарушениям Нет  <?php echo $pageTitle; ?></title>
     <link rel='icon' href='images/logo.jpg'>
+=======
+    <title>нарушениям нет  <?php echo $pageTitle; ?></title>
+    <link rel='icon' href='images/logo.jpeg'>
+>>>>>>> 6b7f57f35a2cad7bff364e68e715a2b13b175b73
     <link rel='stylesheet' href='css/style.css'>
 </head>
 <body>
     <header>
+<<<<<<< HEAD
         <img src='images/logo.jpg' alt='логотип'>
         <h1>Нарушениям Нет</h1>
     </header>
+=======
+        <img src='images/logo.jpeg' alt='логотип'>
+        <h1>нарушениям нет</h1>
+    </header>
+<!--
+    <nav>
+        <a href="index.php">Авторизация</a>
+        <a href="registration.php">Регистрация</a>
+        <a href="create_zayavka.php">Создать заявку</a>
+        <a href="zayavka.php">Список заявок</a>
+        <a href="admin.php">Панель администратора</a>
+    </nav>
+-->
+>>>>>>> 6b7f57f35a2cad7bff364e68e715a2b13b175b73
 
     <nav>
         <?php foreach ($navLinks as $link): ?>
@@ -56,18 +76,26 @@ if (isset($_SESSION['user'])) {
     <main>
         <h1><?php echo $pageTitle;?></h1>
         <div class="content">
+<<<<<<< HEAD
             <?php 
             if (isset($pageContent) && !empty($pageContent)) {
                 echo $pageContent;
             } else {
             }
             ?>
+=======
+            <?php echo $pageContent ?? '';?>
+>>>>>>> 6b7f57f35a2cad7bff364e68e715a2b13b175b73
         </div>
         <footer>
             <h3>2025</h3>
         </footer>
     </main>
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6b7f57f35a2cad7bff364e68e715a2b13b175b73
     <script src="js/script.js"></script>
 </body>
 </html>

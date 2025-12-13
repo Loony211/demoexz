@@ -1,4 +1,5 @@
 * {
+<<<<<<< HEAD
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -10,12 +11,16 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+=======
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+>>>>>>> 6b7f57f35a2cad7bff364e68e715a2b13b175b73
 }
 
 header {
     display: flex;
     align-items: center;
     justify-content: center;
+<<<<<<< HEAD
     background-color: white;
     padding: 15px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
@@ -267,4 +272,37 @@ tr:hover {
     border: none;
     border-top: 1px solid #ddd;
     margin: 20px 0;
+=======
+}
+
+img {
+    height: 300px;
+    
+}
+nav {
+    margin-top: 20px;
+    gap: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    flex: 1;
+
+}
+
+footer {
+    display: flex;
+    align-items: center; 
+    position: fixed;
+    bottom: 0;
+}
+
+.Error {
+    color: red;
+>>>>>>> 6b7f57f35a2cad7bff364e68e715a2b13b175b73
 }

@@ -1,4 +1,5 @@
 <?php
+<<<<<<< HEAD
 $pageTitle = "Панель администратора";
 require_once "db/db.php";
 
@@ -126,3 +127,10 @@ ob_start();
 $pageContent = ob_get_clean();
 require_once "struktura.php";
 ?>
+=======
+$pageTitle = 'Админ';
+require_once "struktura.php";
+?>
+    <main>    
+    </main>
+>>>>>>> 6b7f57f35a2cad7bff364e68e715a2b13b175b73

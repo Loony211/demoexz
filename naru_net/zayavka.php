@@ -1,5 +1,6 @@
 <?php
 $pageTitle = 'Список заявок';
+<<<<<<< HEAD
 require_once "db/db.php";
 
 // Проверка авторизации
@@ -67,3 +68,9 @@ ob_start();
 $pageContent = ob_get_clean();
 require_once "struktura.php";
 ?>
+=======
+require_once "struktura.php";
+?>
+    <main>    
+    </main>
+>>>>>>> 6b7f57f35a2cad7bff364e68e715a2b13b175b73
